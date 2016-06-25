@@ -1,3 +1,3 @@
 # Pillowtalk.news
 
-All about your news.
+All about your news
